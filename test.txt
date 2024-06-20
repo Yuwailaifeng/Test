@@ -238,3 +238,30 @@ TVBS新闻台,https://fm1077.serv00.net/litv.php?id=4gtv-4gtv072
 中视,https://fm1077.serv00.net/litv.php?id=4gtv-4gtv040
 华视,https://fm1077.serv00.net/litv.php?id=4gtv-4gtv041
 民视台湾台,https://fm1077.serv00.net/litv.php?id=4gtv-4gtv156
+
+精品,#genre#
+玩偶•橘子猫「合作集」,https://v4.cvhlscdn.com/20230426/guDLBTn8/hls/index.m3u8
+真心话大冒险「情人节特辑」,https://v4.cvhlscdn.com/20230311/soCDcqfB/hls/index.m3u8?
+新季里的某一天「新年开作2023」,https://v4.cvhlscdn.com/20230216/iw7LeEbx/hls/index.m3u8?
+情侣游戏 零,https://v4.cvhlscdn.com/20221204/dDLVEjQM/hls/index.m3u8
+情侣游戏 壹,https://v4.cvhlscdn.com/20230129/zqeHgwbd/hls/index.m3u8
+一日女友的漂亮姐姐 上,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/ph/gr/7v/78/af7b145ecae246b2ac79cecb6f47f6ad.m3u8?
+一日女友的漂亮姐姐 中,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/j3/i6/yf/uj/4c59de88250d4dce94d5e5260a48468a.m3u8?
+一日女友的漂亮姐姐 下,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/zh/k6/r5/4l/88/60aac9f4edee40078853a86817ead1ff.m3u8?
+一日女友的漂亮姐姐 番外  ASMR姐姐的梦境,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/74/oh/ov/ky/be6214b2998f4f33a65d8e879fc77c8e.m3u8?
+一日女友的漂亮姐姐 番外篇二 热恋海岸线,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/zh/yu/mt/0k/df/68768a0f7843400c91a65843e069f9fa.m3u8?
+森林00-她的妄想,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/8c/sf/lc/5c/34774a9c12b649619c8f4049759c35bf.m3u8?
+森林01-相遇,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/zh/qy/yi/94/89/6dc3c8cb9112436682a5af22588f52a0.m3u8?
+森林02-欺骗,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/jm/jr/pg/bh/03dd6e239b5c40ceb3b156344a64b372.m3u8?
+森林03-碎裂,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/si/p3/76/69/ff14c7c54f1143ddaacac8810fdb8e90.m3u8?
+森林04-吴可玖瑶(终),https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/qy/fi/ih/p7/dd522f6b3bd64097ba0e4350b9e65e1c.m3u8?
+夏日回忆1,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/b3/tk/kw/y1/4cbb66dfcd884546994ebf0fe557635d.m3u8?
+夏日回忆2,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/8v/45/pi/sf/049e460a47e94faabd6e1b7bda0bb6ba.m3u8?
+夏日回忆3,https://v4.cvhlscdn.com/20220102/MWEjUEmA/hls/index.m3u8
+海岛生活1,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/f3/op/3a/ja/1bfcd36a631e400f9e673a66fbfb7385.m3u8?
+海岛生活2,https://v4.cvhlscdn.com/20220807/thM7wsId/hls/index.m3u8
+海岛生活3,https://v4.cvhlscdn.com/20220823/sFbrS6lG/hls/index.m3u8
+甜美游戏陪玩1,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/uu/7f/bg/b5/28ed051cdec84ccc98cb9a8a72b2a1aa.m3u8?
+甜美游戏陪玩2,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/ex/yn/el/3k/09f83fc673314e1c8fda7139737b4f1a.m3u8?
+甜美游戏陪玩3,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/us/6e/s5/8s/72622236ce244252b9726a3530820f28.m3u8?
+甜美游戏陪玩4,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/yf/kq/h5/62/0edc074baab140e1976e12e1099d70d2.m3u8?
